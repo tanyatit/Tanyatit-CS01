@@ -1,7 +1,7 @@
-A= int(input('รับค่าจำนวนเต็ม'))
-if A<=10:
+a= int(input('รับค่าจำนวนเต็ม'))
+if a<=10:
     print('ไม่ผ่าน')
-elif A<=20:
+elif a<=20:
     print('ปรับปรุง')
-else A<=30:
+else:
     print('ดีมาก')
